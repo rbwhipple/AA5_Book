@@ -1,0 +1,68 @@
+WWBPS Ver 4.0 Parts List
+
+BP1	Binding Post	Jameco 71240
+BP2	Binding Post	Jameco 71240
+BR1	Brdg Rect	AES P-QBR-34
+C1	47uF/450v	AES C-ET47-450
+C2	4700uF	AES C-ET4700-16
+C3	4700uF	AES C-ET4700-16
+C4	0.1uf	AES C-MD1-630
+C5	10uF	AES C-ET10-160
+C6	0.1uF	AES C-MD1-630
+C7	4700uF	AES C-ET4700-16
+D1	1N4005	AES P-Q1N4005
+D2	1N4005	AES P-Q1N4005
+F1	0.25A	AES F-Z3AG-F0D25
+J1B	12-pos Terminal Block	Amazon
+M1	0-100v Meter	Amz ASIN B08RN2MV2M
+M2	0-30 ma Meter	Amz ASIN B097R99PCG
+M3	0-20 v meter	Amz ASIN B08RMPST1G
+M4	0-200 ma Meter	Amz ASIN B097R8Q91T
+P1	Pwr Cord	AES S-W132
+PL1	Pilot Lamp	Jameco PL1  Pilot lamp Jameco 2323423
+Q1	FQP10N69C	Mouser 512-FQPF10N60C
+Q2	2N3904	Jameco 783421
+R1	250K Pot	Mouser 652-3299W-1-254LF
+R2	470K	AES R-A470K
+R3	10K	AES R-A10K
+R4	1k	AES R-A1K
+R5	50 Pot	Jameco 241074
+R6	50 Pot	Jameco 254289
+R7	270	R-A270
+R8	50 Pot	Jameco 254298
+R9	270	R-A270
+R10	2700	R-A270
+R11	250K Pot	AES R-V38-250KL	
+R12	2K Pot	Jameco 255493
+R13	330	R-A330
+R14	15K2w	AES R-F15K
+SW1	DPST Switch	AES P-H540
+SW2	DPDT	Jameco 317472
+T1	Pwr XFRM	EDCORE XPWR160-120
+TB1A	12-pos Terminal Block	Amazon EAN 0654936657182
+TB2A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB2B	Molex 2-Pos	
+TB3A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB3B	Molex 2-Pos	
+TB4A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB4B	Molex 2-Pos	
+TB5A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB5B	Molex 2-Pos	
+TB6A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB6B	Molex 2-Pos	
+TB7A	Terminal Block 2-Pos	Amazon EAN 0790926369830
+TB7B	Molex 2-Pos	
+U1	LM317	Jameco 898800
+U2	LM317	Jameco 898800
+Z1	6.2v	Jameco 743517
+
+
+TO-220 Heat Sink Jameco 158051 (Order 3)
+FH1 Fuse Holder Jameco 1711947
+Knobs AES P-K386 (Order 2)
+BP1/BP2 Banana plug dual Jameco 72195 (Order 2)
+Test banana plugs Jameco 72195 (Order 3)
+DIY Case Enclosure (8"x 6"x 4") Amazon ASIN B0786ZLFSV
+SR 1 Strain relief bushing AES P-H1100
+Small blade screw driver (eyeglass repair size)
+
